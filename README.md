@@ -28,6 +28,7 @@
 pip install logging pandas matplotlib sqlite3 python-telegram-bot FinMind
 
 🔔 **注意：**
+- Telegram機器人的TOKEN為機密資料所以改成用import的方式
 - `sqlite3` 為 Python 內建套件，通常不需要額外安裝。
 - `matplotlib.pyplot` 為 `matplotlib` 套件的一部分，安裝 `matplotlib` 即可。
 - `telegram` 與 `telegram.ext` 均包含於 `python-telegram-bot` 套件內。
