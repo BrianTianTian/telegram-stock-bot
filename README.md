@@ -32,7 +32,12 @@ pip install logging pandas matplotlib sqlite3 python-telegram-bot FinMind
 - `matplotlib.pyplot` 為 `matplotlib` 套件的一部分，安裝 `matplotlib` 即可。
 - `telegram` 與 `telegram.ext` 均包含於 `python-telegram-bot` 套件內。
 
----
-
 ### 2️⃣ 執行程式
 python 股票分析+tg機器人.py
+
+---
+
+
+## 🔗 作者
+Brian Tian  
+[GitHub 個人頁面](https://github.com/BrianTianTian)
