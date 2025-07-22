@@ -38,6 +38,10 @@ python 股票分析+tg機器人.py
 
 ---
 
+### 3️⃣ 成品影片
+[成果展示影片](https://drive.google.com/file/d/1RQDc1jm2wqiHq11h42_CUE5a5NicIut0/view?usp=sharing)
+
+---
 
 ## 🔗 作者
 Brian Tian  
